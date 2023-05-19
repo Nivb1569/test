@@ -6,4 +6,5 @@ void main()
 	x = 5;
 	printf("%d", x);
 	printf("Hello world\n");
+	printf("%d", x + x);
 }
